@@ -5,6 +5,7 @@
   padding: 30px
   +clearfix
   .project-unit
+    outline: 1px solid green
     cursor: pointer
     display: block
     width: 400px
@@ -16,25 +17,6 @@
       position: center center
       repeat: no-repeat
       size: cover
-    .project-overlay
-      +position(absolute, 100% 0px null 0px)
-      height: 100%
-      background: fade-out(#333, 0.5)
-      text-align: center
-      //+transition
-      +display(flex)
-      +align-items(center)
-      +justify-content(space-around)
-      strong
-        display: block
-        padding: 20px
-        color: white
-        line-height: 1.2
-        font:
-          size: 24px
-          weight: 300
-    &:hover .project-overlay
-      +position(absolute, 0px 0px null 0px)
 
 @media (max-width: 768px)
   .project-container
