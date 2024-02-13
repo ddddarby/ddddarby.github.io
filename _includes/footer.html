@@ -1,9 +1,9 @@
 <footer>
   <div class="footer-wrap main-nav">
-    <div class="logo">
+    <div class="logo left">
       ©️ Darby Thomas Last Updated Jan 2023
     </div>
-      <nav>
+      <nav class="right">
         {% for item in site.data.settings.social %}
           <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
         {% endfor %}
