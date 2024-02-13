@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-Over the course of 10 years I have gained experience working across brand, marketing, and products. I've gained a specialty working with teams who are making products that help creative people get paid by their fans or the Fortune 500 companies that use their software.
+I'm Darby, a senior product designer with 10+ years of experience, based in Berkeley California. I've been helping creators get paid first at Patreon and now at GitHub. Before that I was making art with the team at Photojojo.
