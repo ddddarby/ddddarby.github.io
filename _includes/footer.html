@@ -1,14 +1,12 @@
 <footer>
-  <div class="footer-wrap">
-    <div class="footer-tagline">
+  <div class="footer-wrap main-nav">
+    <div class="logo">
       ©️ Darby Thomas Last Updated Jan 2023
     </div>
-    <div class="social-media">
       <nav>
         {% for item in site.data.settings.social %}
           <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
         {% endfor %}
       </nav>
-    </div>
   </div>
 </footer>
