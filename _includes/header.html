@@ -1,9 +1,9 @@
 <header>
   <div class="main-nav">
-    <div class="logo">
+    <div class="left logo">
       <a href="{{ site.github.url }}/">{{ site.title }}</a>
     </div>
-    <nav>
+    <nav class="right">
       {% for item in site.data.settings.menu %}
         <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
       {% endfor %}
