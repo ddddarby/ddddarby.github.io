@@ -11,11 +11,10 @@ menu:
 
 projects:
 - {name: 'Friendly Cargo Theme', url: 'friendly-cargo-theme'}
-- {name: 'Project Two', url: 'proj-2'}
+- {name: 'Fresh Cookie Scene', url: 'fresh-cookie-scent'}
 - {name: 'Apple Juice Box Illustration', url: 'apple-juicebox-illustration'}
-- {name: 'Project Four', url: 'proj-4'}
-- {name: 'Project Five', url: 'proj-5'}
-- {name: 'Project Six', url: 'proj-6'}
+- {name: 'Dispo Cam', url: 'dispo-cam'}
+- {name: 'Iris Lens', url: 'iris-smartphone-lens'}
 
 #-------------------------------
 # Contact Section
