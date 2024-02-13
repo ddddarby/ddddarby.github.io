@@ -12,7 +12,7 @@ menu:
 projects:
 - {name: 'Friendly Cargo Theme', url: 'friendly-cargo-theme'}
 - {name: 'Project Two', url: 'proj-2'}
-- {name: 'Apple Juice Box Illustration', url: 'apple-juice-box-illustration'}
+- {name: 'Apple Juice Box Illustration', url: 'apple-juicebox-illustration'}
 - {name: 'Project Four', url: 'proj-4'}
 - {name: 'Project Five', url: 'proj-5'}
 - {name: 'Project Six', url: 'proj-6'}
