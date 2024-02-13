@@ -10,3 +10,7 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 title:		   "Darby Thomas"
 description: "Product designer based in SF"
 author:      "Darby Thomas"
+
+exclude:
+ - sync.py
+ - README.md
