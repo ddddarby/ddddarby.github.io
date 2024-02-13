@@ -2,12 +2,12 @@
   <div class="project-container">
     <div class="grid-row">
       {% for project in site.data.settings.projects %}
-        <a href="{{ site.github.url }}/projects/{{ project.url }}">
           <div class="project-unit grid-item" data-folder="{{ site.github.url }}/projects/{{ project.url }}">
+            <a href="{{ site.github.url }}/projects/{{ project.url }}">
             <img src="{{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.jpg">
             <h3>{{ project.name }}</h3>
+            </a>
           </div>
-        </a>
       {% endfor %}
     </div>
   </div>
