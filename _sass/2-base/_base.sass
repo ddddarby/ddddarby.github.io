@@ -4,7 +4,7 @@
 .gigantic, .huge, .large, .bigger, .big,
 h1, h2, h3, h4, h5, h6
   color: $headlineColor
-  font-weight: 500
+  font-weight: 200
 
 .gigantic
   font-size: 110px
@@ -33,10 +33,6 @@ h1, h2, h3, h4, h5, h6
   line-height: 1.2
 
 
-
-p
-  margin: 0 0 20px 0
-
 em
   font-style: italic
 
@@ -55,10 +51,12 @@ hr
 /* Links
   ------------------------------------	*/
 a
-  color: $accent
-  text-decoration: underline
+  text-decoration: none
   outline: 0
 
+p a
+  text-decoration: underline
+  
 a:hover, a:focus
   color: lighten($accent, 20%)
 
