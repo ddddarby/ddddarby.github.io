@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Contact
-permalink: /contact
+title: Info
+permalink: /info
 ---
 
-# Contact
+# Information
 hello@darby.zome
 @ddddarby
