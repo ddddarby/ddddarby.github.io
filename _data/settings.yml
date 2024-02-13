@@ -10,7 +10,7 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Project One', url: 'proj-1'}
+- {name: 'Friendly Cargo Theme', url: 'friendly-cargo-theme'}
 - {name: 'Project Two', url: 'proj-2'}
 - {name: 'Project Three', url: 'proj-3'}
 - {name: 'Project Four', url: 'proj-4'}
