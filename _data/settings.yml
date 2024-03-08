@@ -10,8 +10,6 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Friendly Cargo Theme', url: 'friendly-cargo-theme'}
-- {name: 'Fresh Cookie Scene', url: 'fresh-cookie-scent'}
 - {name: 'Apple Juice Box Illustration', url: 'apple-juicebox-illustration'}
 - {name: 'Dispo Cam', url: 'dispo-cam'}
 - {name: 'Iris Lens', url: 'iris-smartphone-lens'}
