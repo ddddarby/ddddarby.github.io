@@ -1,3 +1,28 @@
+
+<div class="label-list">
+  <a class="filter-button label active" data-category="*">All</a>
+  <a class="filter-button label" data-category="pink">Product design</a>
+  <a class="filter-button label" data-category="green">Illustration</a>
+  <a class="filter-button label" data-category="blue">Brand and marketing</a>
+  <a class="filter-button label" data-category="industrial">Industrial design</a>
+</div>
+
+<section>
+  <div class="project-container">
+    <div class="grid-row">
+      {% for project in site.data.settings.projects %}
+        {% for category in project.categories %}
+          <div class="project-unit grid-item" data-category="{{ category }}" data-folder="{{ site.github.url }}/projects/{{ project.url }}">
+            <a href="{{ site.github.url }}/projects/{{ project.url }}">
+            <img src="{{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.jpg">
+            <h5>{{ project.name }}</h5>
+            </a>
+          </div>
+          {% endfor %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
 <script>
   // get all the filter buttons
   const filterButtons = document.querySelectorAll('.filter-button');
@@ -25,27 +50,3 @@
       });
   });
   </script>
-<div class="label-list">
-  <a class="filter-button label active" data-category="*">All</a>
-  <a class="filter-button label" data-category="pink">Product design</a>
-  <a class="filter-button label" data-category="green">Illustration</a>
-  <a class="filter-button label" data-category="blue">Brand and marketing</a>
-  <a class="filter-button label" data-category="industrial">Industrial design</a>
-</div>
-
-<section>
-  <div class="project-container">
-    <div class="grid-row">
-      {% for project in site.data.settings.projects %}
-        {% for category in project.categories %}
-          <div class="project-unit grid-item" data-category="{{ category }}" data-folder="{{ site.github.url }}/projects/{{ project.url }}">
-            <a href="{{ site.github.url }}/projects/{{ project.url }}">
-            <img src="{{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.jpg">
-            <h5>{{ project.name }}</h5>
-            </a>
-          </div>
-          {% endfor %}
-      {% endfor %}
-    </div>
-  </div>
-</section>
