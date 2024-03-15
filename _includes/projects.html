@@ -3,7 +3,7 @@
     <div class="grid-row">
       {% for project in site.data.settings.projects %}
           <div class="project-unit grid-item {{ project.categories }}" data-folder="{{ site.github.url }}/projects/{{ project.url }}">
-            <a href="{{ site.github.url }}/projects/{{ project.url }}" data-toggle="modal">
+            <a href="{{ site.github.url }}/projects/{{ project.url }}">
             <img src="{{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.jpg">
             <h5>{{ project.name }}</h5>
             </a>
