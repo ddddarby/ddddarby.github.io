@@ -1,6 +1,6 @@
 
 <div class="label-list">
-  <a class="filter-button label active" data-category="*">All</a>
+  <a class="filter-button label active" data-category="all">All</a>
   <a class="filter-button label" data-category="pink">Product design</a>
   <a class="filter-button label" data-category="green">Illustration</a>
   <a class="filter-button label" data-category="blue">Brand and marketing</a>
@@ -24,29 +24,29 @@
   </div>
 </section>
 <script>
-  // get all the filter buttons
-  const filterButtons = document.querySelectorAll('.filter-button');
-  
-  // add event listener for each button
-  filterButtons.forEach(function(button) {
-      button.addEventListener('click', function(e) {
-          // get the category from the clicked button
-          const category = e.target.getAttribute('data-category').toLowerCase();
-  
-          // get all the posts
-          const posts = document.querySelectorAll('.grid-item');
-  
-          // iterate over the posts
-          posts.forEach(function(post) {
-              const postCategory = post.getAttribute('data-category').toLowerCase();
-  
-              // if the post's category matches the button's category, show it, otherwise hide it
-              if (postCategory === category) {
-                  post.style.display = 'block';
-              } else {
-                  post.style.display = 'none';
-              }
-          });
-      });
-  });
+ // get all the filter buttons
+const filterButtons = document.querySelectorAll('.filter-button');
+
+// add event listener for each button
+filterButtons.forEach(function(button) {
+    button.addEventListener('click', function(e) {
+        // get the category from the clicked button
+        const category = e.target.getAttribute('data-category').toLowerCase();
+
+        // get all the posts
+        const posts = document.querySelectorAll('.grid-item');
+
+        // iterate over the posts
+        posts.forEach(function(post) {
+            const postCategory = post.getAttribute('data-category').toLowerCase();
+
+            // if the post's category matches the button's category or the button is 'all', show it, otherwise hide it
+            if (postCategory === category || category === 'all') {
+                post.style.display = 'block';
+            } else {
+                post.style.display = 'none';
+            }
+        });
+    });
+});
   </script>
