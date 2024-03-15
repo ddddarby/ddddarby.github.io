@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Juice Box Battery'
-categories: [pink, green]
+categories: pink green
 ---
 <img src="/assets/img/projects/proj-3/juiceboxphoto.jpg" alt="product photo" class="image">
 
