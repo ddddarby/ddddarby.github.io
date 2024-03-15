@@ -31,17 +31,21 @@ const filterButtons = document.querySelectorAll('.filter-button');
 filterButtons.forEach(function(button) {
     button.addEventListener('click', function(e) {
         // get the categories from the clicked button
-        const categories = e.target.getAttribute('data-category').split(' ');
+        const categories = e.target.getAttribute('data-category').toLowerCase().split(' ');
 
         // get all the posts
         const posts = document.querySelectorAll('.grid-item');
 
         // iterate over the posts
         posts.forEach(function(post) {
-            const postCategories = post.getAttribute('data-category').split(' ');
+            const postCategories = post.getAttribute('data-category').toLowerCase().split(' ');
 
-            // if the post's categories include all the button's categories, show it, otherwise hide it
-            if (categories.every(cat => postCategories.includes(cat))) {
+            // if the button's category is 'all', show all posts
+            if (categories[0] === 'all') {
+                post.style.display = 'block';
+            }
+            // otherwise, if the post's categories include all the button's categories, show it, otherwise hide it
+            else if (categories.every(cat => postCategories.includes(cat))) {
                 post.style.display = 'block';
             } else {
                 post.style.display = 'none';
@@ -49,4 +53,5 @@ filterButtons.forEach(function(button) {
         });
     });
 });
+
   </script>
