@@ -1,19 +1,29 @@
-<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
-<script src="https://unpkg.com/isotope-layout@3.0/dist/isotope.pkgd.js"></script>
-<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
-
 <script>
-  var $grid = $('.grid-row').imagesLoaded( function() {
-      $grid.isotope({});
-  });
-  $('.filter-button-group').on( 'click', 'a', function() {
-      var filterValue = $(this).attr('data-filter');
-      $grid.isotope({ filter: filterValue });
-   });
-   $('.button-group a.btn').on('click', function(){
-      $('.button-group a.btn').removeClass('active');
-      $(this).addClass('active');
-   });
+// get all the filter buttons
+const filterButtons = document.querySelectorAll('.filter-button');
+
+// add event listener for each button
+filterButtons.forEach(function(button) {
+    button.addEventListener('click', function(e) {
+        // get the category from the clicked button
+        const category = e.target.getAttribute('data-category').toLowerCase();
+
+        // get all the posts
+        const posts = document.querySelectorAll('.grid-item');
+
+        // iterate over the posts
+        posts.forEach(function(post) {
+            const postCategory = post.getAttribute('data-category').toLowerCase();
+
+            // if the post's category matches the button's category, show it, otherwise hide it
+            if (postCategory === category) {
+                post.style.display = 'block';
+            } else {
+                post.style.display = 'none';
+            }
+        });
+    });
+});
 </script>
 <header>
   <div class="main-nav">
