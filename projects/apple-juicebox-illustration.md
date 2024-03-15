@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Apple Juice Box Battery'
-category: industrial-design illustration
+category: [pink, green]
 ---
 <img src="/assets/img/projects/proj-3/juiceboxphoto.jpg" alt="product photo" class="image">
 
