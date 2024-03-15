@@ -30,18 +30,18 @@ const filterButtons = document.querySelectorAll('.filter-button');
 // add event listener for each button
 filterButtons.forEach(function(button) {
     button.addEventListener('click', function(e) {
-        // get the category from the clicked button
-        const category = e.target.getAttribute('data-category').toLowerCase();
+        // get the categories from the clicked button
+        const categories = e.target.getAttribute('data-category').split(' ');
 
         // get all the posts
         const posts = document.querySelectorAll('.grid-item');
 
         // iterate over the posts
         posts.forEach(function(post) {
-            const postCategory = post.getAttribute('data-category').toLowerCase();
+            const postCategories = post.getAttribute('data-category').split(' ');
 
-            // if the post's category matches the button's category or the button is 'all', show it, otherwise hide it
-            if (postCategory === category || category === 'all') {
+            // if the post's categories include all the button's categories, show it, otherwise hide it
+            if (categories.every(cat => postCategories.includes(cat))) {
                 post.style.display = 'block';
             } else {
                 post.style.display = 'none';
