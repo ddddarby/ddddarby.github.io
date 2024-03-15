@@ -25,12 +25,24 @@
 
 .label-list
     margin: 8px 2px
+    list-style-type: none
     .label
-        list-style-type: none
-        display: inline-block
-        padding: 6px 12px
-        border-radius: 100px
-        border: 1px solid #000000
-        &:hover
-          background-color: #eff078
+      outline: 1px solid red
+      display: inline-block
+      padding: 6px 12px
+      border-radius: 100px
+      border: 1px solid #000000
+      &:hover
+        background-color: #eff078
 
+
+.big-list
+    padding: 0px
+    list-style-type: none
+    li
+        padding: 12px 0px
+        display: block
+        border-top: solid 0.25px #000000
+        font-size: 16px
+        &:first-child
+            border-top: 0px
