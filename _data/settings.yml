@@ -14,7 +14,7 @@ projects:
 - {name: 'Dispo Cam', url: 'dispo-cam', categories: 'product illustration brand'}
 - {name: 'Iris Lens', url: 'iris-smartphone-lens', categories: 'industrial brand illustration'}
 - {name: 'Friendly Cargo Theme', url: 'friendly-cargo-theme', categories: 'brand frontend'}
-- {name: 'Fresh Cookie Scent', url: 'fresh cookie scent', categories: 'brand illustration'}
+- {name: 'Fresh Cookie Scent', url: 'fresh-cookie-scent', categories: 'brand illustration'}
 
 #-------------------------------
 # Contact Section
