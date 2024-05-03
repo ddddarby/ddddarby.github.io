@@ -7,7 +7,8 @@ title: 'Dispo cam'
 The Photojojo Disposable Camera App was available in the Apple App Store from March 2015 to August 2015. You downloaded the app, took 27 photos with it, and you’d see your pictures for the very first time as real prints that we printed and mailed to you. I developed the branding, identity, and graphic illustration, packaging and marketing site.
 
 ## Packaging
-<div class="image-row image-row-3">
+<div class="image-row">
+<div class="image-row-3">
 <img src="/assets/img/projects/dispo-cam/thumb-30.jpg" alt="product photo" class="image">
 <img src="/assets/img/projects/dispo-cam/thumb-31.jpg" alt="product photo" class="image">
 <img src="/assets/img/projects/dispo-cam/thumb-32.jpg" alt="product photo" class="image">
