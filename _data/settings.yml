@@ -10,9 +10,9 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Apple Juice Box Illustration', url: 'apple-juicebox-illustration', categories: 'blue green'}
-- {name: 'Dispo Cam', url: 'dispo-cam', categories: 'green'}
-- {name: 'Iris Lens', url: 'iris-smartphone-lens', categories: 'pink'}
+- {name: 'Apple Juice Box Illustration', url: 'apple-juicebox-illustration', categories: 'illustration industrial-design'}
+- {name: 'Dispo Cam', url: 'dispo-cam', categories: 'product-design illustration brand-marketing'}
+- {name: 'Iris Lens', url: 'iris-smartphone-lens', categories: 'industrial-design brand-marketing illustration'}
 
 #-------------------------------
 # Contact Section
