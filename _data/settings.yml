@@ -10,6 +10,8 @@ menu:
 # Projects Section
 
 projects:
+- {name: 'Tamagotchi', url: 'tamagotchi', categories: 'illustration'}
+- {name: 'Cyberdecks', url: 'cyberdecks', categories: 'illustration'}
 - {name: 'Apple Juice Box Illustration', url: 'apple-juicebox-illustration', categories: 'illustration industrial'}
 - {name: 'Dispo Cam', url: 'dispo-cam', categories: 'product illustration brand'}
 - {name: 'Iris Lens', url: 'iris-smartphone-lens', categories: 'industrial brand illustration'}
