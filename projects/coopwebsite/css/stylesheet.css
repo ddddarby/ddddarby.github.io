@@ -1,0 +1,335 @@
+* {
+ margin: 0;
+}
+
+div {
+  display: block;
+}
+
+section {
+  display: block;
+   border-bottom: 2px dashed #D8D8D8;
+   padding-bottom: 10px;
+   margin-bottom: 5px;
+}
+
+
+@font-face {
+font-family: 'DINPro-Regular';
+src: url(../fonts/DINPro-Regular.otf);
+}
+
+body {
+  background: fixed white url(../img/bggraphic.png) repeat-x left top;
+  overflow-x: hidden;
+}
+
+
+::selection {
+  background: #d85c56;
+  color: #fff;
+}
+
+a {
+  color: #d85c56 ;
+  text-decoration: none;
+}
+
+
+a:hover {
+  color: #d85c56 ;
+  text-decoration: underline;
+}
+
+
+.btn-plain {
+  display: inline-block;
+  background: white;
+  padding: 10px 20px 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: normal;
+  color: #000;
+  text-transform: uppercase;
+  font-family: DINPro, arial, sans-serif;
+  font-weight: regular;
+  margin-right: 2px;
+}
+
+.download{
+  background: white url(../img/downloadarrow.png) no-repeat 5% 50%;
+  padding: 10px 20px 10px 48px;
+}
+
+.edit{
+  background: white url(../img/edit.png) no-repeat 5% 50%;
+  padding: 10px 20px 10px 40px;
+}
+
+.email{
+  background: white url(../img/emailicon.png) no-repeat 5% 50%;
+  padding: 10px 20px 10px 40px;
+}
+
+.btn-payrent {
+display: inline-block;
+  padding: 5px 10px 4px;
+  font-size: 18px;
+  font-family: DINPro, arial, sans-serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  line-height: 30px;
+  color: #2c2c30;
+  text-align: center;
+  text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
+  background-color: #61d9c7;
+  border: 1px solid #48a295;
+  border-bottom-color: #48a295;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);
+  cursor: pointer;
+  *margin-left: .3em;
+
+}
+
+.btn-payrent:hover {
+  background: #b1ece3;
+}
+
+.btn-payrent:active {
+  background: #48a295;
+  color: #FFF;
+}
+
+
+.input-payrent {
+display: inline-block;
+width: 210px;
+height: 20px;
+padding: 10px;
+margin-bottom: 10px;
+font-size: 14px;
+line-height: 18px;
+color: #555;
+border: 1px solid #6c313aC;
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+}
+
+.btn-plain:hover {
+  color: #333333;
+  text-decoration: none;
+  background-color: #61d9c7 ;
+}
+
+.btn-plain:active {
+  color: #333333;
+  text-decoration: none;
+  background-color: #48a295;
+}
+
+
+.bgimg {
+  background: url('img/fpo_2.png');
+  border: 1px solid red;
+}
+
+#header {
+ position: relative;
+ top: 0;
+ height: 200px;
+ overflow: hidden;
+ height: 200px;
+ width: 100%;
+ padding-bottom: 20px;
+}
+
+#topArea {
+  width: 100%;
+}
+
+#cappnav{
+ width: 100%;
+ position: relative;
+ height: 40px;
+}
+
+#cappnav ul {
+  overflow: hidden;
+  width: 940px;
+  margin:0 auto;
+  list-style: none;
+  font-family: letter gothic std;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+#cappnav li {
+ margin-top: 14px;
+ margin-left: 0px;
+display: inline-block;
+}
+
+#cappnav a {
+  color: #000;
+}
+
+#main_content{
+  position: relative;
+  top: 2em;
+}
+
+#pay-rent {
+ border-top: 2px dashed #D8D8D8;
+ border-bottom: 2px dashed #D8D8D8;
+ padding: 20px 0px 20px 0px;
+}
+
+.pay-rent {
+  background-color: rgba(97,217,199,0.8);
+  padding: 20px 20px 0px 20px;
+}
+
+.pay-rent a {
+ color: #000;
+}
+
+.pay-rent a:hover {
+ color: #000;
+ text-decoration: none;
+}
+
+.pay-rent h2{
+  color: #FFF;
+}
+
+h2 {
+ color: #000;
+ font-family: DINPro, arial, sans-serif;
+ font-weight: normal;
+ text-transform: uppercase;
+}
+
+h3 {
+ color: #000;
+ font-family: DINPro, arial, sans-serif;
+ font-weight: normal;
+ text-transform: uppercase;
+}
+
+h5 {
+ color: #000;
+ font-family: DINPro, arial, sans-serif;
+}
+
+p {
+ color: #000;
+ font-family: DINPro, arial, sans-serif;
+ font-weight: regular;
+}
+
+.anchor {
+  height: 48px;
+  width: 100%;
+}
+
+table tbody tr:hover { background: #D8D8D8; }
+
+hr {
+border: 0;
+margin: 4px 0px 4px 0px;
+border-bottom: 1px solid #EEE;
+}
+
+.fill {
+  background: #222;
+  padding: 10px 10px;
+}
+
+
+.footer {
+  margin: 25px 0px 0px 0px;
+  padding: 20px 0 25px 0;
+}
+
+.footer p {
+  font-family: letter gothic std;
+  text-transform: uppercase;
+  margin-top: 25px;
+}
+
+.section-header {
+  background-color: rgba(0,0,0,0.1);
+  padding: 10px 10px;
+  margin-bottom: 14px;
+}
+
+.section-header a {
+  color: #000000;
+}
+
+.section-definition {
+  background-color: rgba(0,0,0,0.1);
+  padding: 10px 10px;
+}
+
+.costimg {
+  width: 50px;
+}
+
+.costdesc {
+  width: 280px;
+}
+
+.cost {
+  width: 10px;
+}
+
+.cost h3{
+  text-align: right;
+}
+
+.thumbnail {
+  padding: 20px 20px;
+  background-color: rgba(0,0,0,0.1);
+  height: 420px;
+}
+
+.thumbnail:hover { background: rgba(216,92,86,0.2); }
+
+.thumbnail h2 {
+  text-transform: none;
+  font-size: 21px;
+}
+
+.thumbnail p {
+  line-height: 1.8em;
+  height: 140px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+.thumbnail ul {
+  list-style: none;
+  margin-left: 0;
+}
+
+.thumbnail li {
+  display: inline-block;
+  margin-right: 4px;
+}
+
+.thumbnail h6 {
+ margin-top: 10px;
+}
+
+.proj-fac {
+ height: 20px;
+ margin-top: 8px;
+}
