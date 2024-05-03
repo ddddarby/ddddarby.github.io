@@ -13,6 +13,8 @@ projects:
 - {name: 'Apple Juice Box Illustration', url: 'apple-juicebox-illustration', categories: 'illustration industrial-design'}
 - {name: 'Dispo Cam', url: 'dispo-cam', categories: 'product-design illustration brand-marketing'}
 - {name: 'Iris Lens', url: 'iris-smartphone-lens', categories: 'industrial-design brand-marketing illustration'}
+- {name: 'Friendly Cargo Theme', url: 'friendly-cargo-theme', categories: 'brand-marketing frontend-engineering'}
+- {name: 'Fresh Cookie Scent', url: 'fresh cookie scent', categories: 'brand-marketing illustration'}
 
 #-------------------------------
 # Contact Section
