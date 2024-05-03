@@ -8,15 +8,15 @@ The Photojojo Disposable Camera App was available from March 2015 to August 2015
 
 ## Packaging
 <div class="image-row-3">
-<img src="/assets/img/projects/dispo-cam/thumbnail-30.jpg" alt="product photo" class="image">
-<img src="/assets/img/projects/dispo-cam/thumbnail-31.jpg" alt="product photo" class="image">
-<img src="/assets/img/projects/dispo-cam/thumbnail-32.jpg" alt="product photo" class="image">
+<img src="/assets/img/projects/dispo-cam/thumb-30.jpg" alt="product photo" class="image">
+<img src="/assets/img/projects/dispo-cam/thumb-31.jpg" alt="product photo" class="image">
+<img src="/assets/img/projects/dispo-cam/thumb-32.jpg" alt="product photo" class="image">
 </div>
 I designed the print graphics for the mailing envelope, the print sleeve wrap and a sticker that turns the prints into insta-postcards.
 
 ## App
 I designed the look and feel of the app and worked with a team of developers to work out a UI that was both fun and functional.
-<img src="/assets/img/projects/dispo-cam/thumbnail-34.jpg" alt="product photo" class="image">
+<img src="/assets/img/projects/dispo-cam/thumb-34.jpg" alt="product photo" class="image">
 <img src="/assets/img/projects/dispo-cam/buy-new-roll-2-Converted-1.gif" alt="product photo" class="image">
 <img src="/assets/img/projects/dispo-cam/finished-roll-3.gif" alt="product photo" class="image">
 
