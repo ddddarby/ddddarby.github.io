@@ -76,7 +76,7 @@ a:hover {
 display: inline-block;
   padding: 5px 10px 4px;
   font-size: 18px;
-  font-family: DINPro, arial, sans-serif;
+  font-family: "DINPro-Regular", arial, sans-serif;
   font-weight: normal;
   text-transform: uppercase;
   line-height: 30px;
@@ -211,26 +211,26 @@ display: inline-block;
 
 h2 {
  color: #000;
- font-family: DINPro, arial, sans-serif;
+ font-family: "DINPro-Regular", arial, sans-serif;
  font-weight: normal;
  text-transform: uppercase;
 }
 
 h3 {
  color: #000;
- font-family: DINPro, arial, sans-serif;
+ font-family: "DINPro-Regular", arial, sans-serif;
  font-weight: normal;
  text-transform: uppercase;
 }
 
 h5 {
  color: #000;
- font-family: DINPro, arial, sans-serif;
+ font-family: "DINPro-Regular", arial, sans-serif;
 }
 
 p {
  color: #000;
- font-family: DINPro, arial, sans-serif;
+ font-family: "DINPro-Regular", arial, sans-serif;
  font-weight: regular;
 }
 
