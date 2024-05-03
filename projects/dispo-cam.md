@@ -16,10 +16,10 @@ I designed the print graphics for the mailing envelope, the print sleeve wrap an
 
 ## App
 I designed the look and feel of the app and worked with a team of developers to work out a UI that was both fun and functional.
+<img src="/assets/img/projects/dispo-cam/thumb-34.jpg" alt="product photo" class="responsive-image">
 <div class="image-row">
-<img src="/assets/img/projects/dispo-cam/thumb-34.jpg" alt="product photo" class="responsive-image row-three">
-<img src="/assets/img/projects/dispo-cam/buy-new-roll-2-Converted-1.gif" alt="product photo" class="responsive-image row-three">
-<img src="/assets/img/projects/dispo-cam/finished-roll-3.gif" alt="product photo" class="responsive-image row-three">
+<img src="/assets/img/projects/dispo-cam/buy-new-roll-2-Converted-1.gif" alt="product photo" class="responsive-image row-two">
+<img src="/assets/img/projects/dispo-cam/finished-roll-3.gif" alt="product photo" class="responsive-image row-two">
 </div>
 
 ## Marketing Site
