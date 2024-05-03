@@ -6,7 +6,8 @@ A cyberdeck is a custom-made personal computer that allows users to connect to c
 
 <img src="/assets/img/projects/cyberdecks/thumbnail.jpg" alt="product photo" class="image">
 
+<img src="/assets/img/projects/cyberdecks/romowa-3a.jpg" alt="product photo" class="image">
 <div class="image-row">
-<img src="/assets/img/projects/cyberdecks/romowa3a.png" alt="product photo" class="responsive-image row-two">
-<img src="/assets/img/projects/cyberdecks/romowa3d.png" alt="product photo" class="responsive-image row-two">
+<img src="/assets/img/projects/cyberdecks/romowa-3c.png" alt="product photo" class="responsive-image row-two">
+<img src="/assets/img/projects/cyberdecks/romowa-3d.png" alt="product photo" class="responsive-image row-two">
 </div>
