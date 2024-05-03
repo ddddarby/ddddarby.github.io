@@ -13,13 +13,7 @@
         {% for category in project.categories %}
           <div class="project-unit grid-item" data-category="{{ category }}" data-folder="{{ site.github.url }}/projects/{{ project.url }}">
             <a href="{{ site.github.url }}/projects/{{ project.url }}">
-              {% if site.github.url/assets/img/projects/{{ project.url }}/thumbnail.jpg exists %}
-                  <img src="{{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.jpg">
-              {% elsif site.github.url/assets/img/projects/{{ project.url }}/thumbnail.png exists %}
-                  <img src="{{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.png">
-              {% elsif site.github.url/assets/img/projects/{{ project.url }}/thumbnail.gif exists %}
-                  <img src="{{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.gif">
-              {% endif %}
+              <img src="{{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.jpg">
           </a>
           </div>
           {% endfor %}
