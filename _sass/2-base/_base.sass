@@ -1,11 +1,22 @@
 /*	Typography presets
   ------------------------------------	*/
+/* Basic Styles
+------------------------------------	*/
+
+body
+  background: $documentBackgroundColor
+  font-size: 14px
+  line-height: 1.6
+  color: $textColor
+  -webkit-font-smoothing: antialiased
+  -webkit-text-size-adjust: 100%
+  font-family: "degular-variable", sans-serif
+  font-variation-settings: "ital" 0, "opsz" 14, "wght" 200
 
 .gigantic, .huge, .large, .bigger, .big,
 h1, h2, h3, h4, h5, h6
   color: $headlineColor
-  font-weight: 800
-  font-family: "degular-variable",sans-serif
+  font-variation-settings: "ital" 0, "opsz" 14, "wght" 800
 
 .gigantic
   font-size: 110px
@@ -100,8 +111,8 @@ body
   color: $textColor
   -webkit-font-smoothing: antialiased
   -webkit-text-size-adjust: 100%
-  font-family: "degular-variable",sans-serif
-  font-optical-sizing: 72
-  font-weight: 200
+  font-family: "degular-variable", sans-serif
+  font-variation-settings: "ital" 0, "opsz" 14, "wght" 200
+
   
 @media screen and (max-width: 480px)
