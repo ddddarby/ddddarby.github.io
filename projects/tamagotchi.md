@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cyberdecks'
+title: 'Tamagotchi'
 ---
 I made a low poly tamagotchi in the 3D modeling software Blender as a personal project.
 

@@ -3,7 +3,7 @@
 
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'Blog', url: 'blog'}
+- {name: 'Blog', url: 'blog'}w
 - {name: 'Info',  url: 'info'}
 
 #-------------------------------
@@ -12,9 +12,11 @@ menu:
 projects:
 - {name: 'Tamagotchi', url: 'tamagotchi', categories: 'illustration'}
 - {name: 'Cyberdecks', url: 'cyberdecks', categories: 'illustration'}
-- {name: 'Apple Juice Box Illustration', url: 'apple-juicebox-illustration', categories: 'illustration industrial'}
+- {name: 'Gartarot', url: 'gartarot', categories: 'illustration'}
 - {name: 'Dispo Cam', url: 'dispo-cam', categories: 'product illustration brand'}
-- {name: 'Iris Lens', url: 'iris-smartphone-lens', categories: 'industrial brand illustration'}
+- {name: 'Engineering prints', url: 'engineering-prints', categories: 'product illustration brand frontend'}
+- {name: 'Apple Juice Box Illustration', url: 'apple-juicebox-illustration', categories: 'illustration industrial'}
+- {name: 'Iris Lens', url: 'iris-smartphone-lens', categories: 'brand illustration'}
 - {name: 'Friendly Cargo Theme', url: 'friendly-cargo-theme', categories: 'brand frontend'}
 - {name: 'Coop website', url: 'coop-website', categories: 'brand frontend'}
 - {name: 'Fresh Cookie Scent', url: 'fresh-cookie-scent', categories: 'brand illustration'}
@@ -25,7 +27,7 @@ projects:
 social:
 - {icon: 'twitter',   link: 'https://twitter.com/ddddarby'}
 - {icon: 'github',    link: 'https://github.com/dthoma1'}
-- {icon: 'envelope',  link: 'mailto:darbythomsf@gmail.com'}
+- {icon: 'envelope',  link: ''}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 

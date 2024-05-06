@@ -6,12 +6,12 @@ The Photojojo Disposable Camera App was available in the Apple App Store from Ma
 <img src="/assets/img/projects/dispo-cam/thumbnail.jpg" alt="product photo" class="image">
 
 ## Packaging
+I designed the print graphics for the mailing envelope, the print sleeve wrap and a sticker that turns the prints into insta-postcards.
 <div class="image-row">
     <img src="/assets/img/projects/dispo-cam/thumb-30.jpg" alt="product photo" class="responsive-image row-three">
     <img src="/assets/img/projects/dispo-cam/thumb-31.jpg" alt="product photo" class="responsive-image row-three">
     <img src="/assets/img/projects/dispo-cam/thumb-32.jpg" alt="product photo" class="responsive-image row-three">
 </div>
-I designed the print graphics for the mailing envelope, the print sleeve wrap and a sticker that turns the prints into insta-postcards.
 
 ## App
 I designed the look and feel of the app and worked with a team of developers to work out a UI that was both fun and functional.
