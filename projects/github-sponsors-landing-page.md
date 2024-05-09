@@ -6,5 +6,8 @@ I worked with GitHub's brand and marketing team to refresh the landing page of [
 
 <img src="/assets/img/projects/github-sponsors-landing-page/thumbnail.jpg" alt="product photo" class="image">
 
-https://ddddarby.github.io/assets/img/projects/github-sponsors-landing-page/sponsors-landing-animation.mov
+<video controls>
+  <source src="https://github.com/github/forgoodfirstissue/assets/66705495/73867d75-504b-43d0-9257-3f2a47923f1b" type="video/mp4">
+</video>
+
 
