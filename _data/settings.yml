@@ -12,6 +12,7 @@ projects:
 - {name: 'GitHub Sponsors Landing Page', url: 'github-sponsors-landing-page', categories: 'product brand'}
 - {name: 'Tamagotchi', url: 'tamagotchi', categories: 'illustration'}
 - {name: 'Cyberdecks', url: 'cyberdecks', categories: 'illustration'}
+- {name: 'Ink drawing series', url: 'ink-drawing-series', categories: 'illustration'}
 - {name: 'Supper club', url: 'supper-club', categories: 'brand illustration'}
 - {name: 'Kitchen mural', url: 'kitchen-mural', categories: 'illustration'}
 - {name: 'Gartarot', url: 'gartarot', categories: 'illustration'}
