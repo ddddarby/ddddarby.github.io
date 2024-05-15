@@ -66,18 +66,25 @@ video
 /* Links
   ------------------------------------	*/
 a
-  text-decoration: none
+  text-decoration: underline
   outline: 0
-  color: $accent
+  color: $textColor
+  text-underline-offset: .3rem
+  text-decoration-thickness: .1rem
+
 
 p a, nav a
   text-decoration: underline
+  text-underline-offset: .3rem
+  text-decoration-thickness: .1rem
   
 a:hover, a:focus
   color: lighten($accent, 20%)
 
 a span:hover
-  color: #ffffff
+  text-underline-offset: .3rem
+  text-decoration-thickness: .1rem
+  
 
 
 
@@ -86,12 +93,10 @@ a span:hover
   ------------------------------------	*/
 
 ::selection
-  background: #ffffff
-  color: $bgcolor
+  background: $selectionColor
 
 ::-moz-selection
-  background: #ffffff
-  color: $bgcolor
+  background: $selectionColor
 
 img::selection
   background: transparent
