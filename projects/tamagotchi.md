@@ -4,6 +4,7 @@ title: 'Tamagotchi'
 ---
 
 I made a low poly tamagotchi in the 3D modeling software Blender as a personal project.
+<br>
 
 <div class="image-row">
 <img src="/assets/img/projects/tamagotchi/thumbnail.jpg" alt="product photo" class="responsive-image">
