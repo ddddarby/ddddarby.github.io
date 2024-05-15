@@ -17,6 +17,6 @@ On the nerdy end of things, it was the first time I was trying to:
 
 I briefly entertained the idea of spinning this in to a start up for other coops but was discouraged after realizing it was just a very over engineered google doc and google docs are free.
 
-## 🔗 View a [demo](https://ddddarby.github.io/projects/coopwebsite/index.html).
+🔗 View a [demo](https://ddddarby.github.io/projects/coopwebsite/index.html).
 
 <img src="/assets/img/projects/coop-website/thumbnail.jpg" alt="product photo" class="image">
