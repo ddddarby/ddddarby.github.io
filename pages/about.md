@@ -15,4 +15,5 @@ I'm Darby, a senior product designer with 10+ years of experience, based in Berk
 </ul>
 
 Colophon<br>
-[Degular](https://ohnotype.co/fonts/degular)
+Instrument
+JetBrainsMono
