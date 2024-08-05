@@ -6,6 +6,6 @@ The themes on [Cargo](https://cargo.site) tend to be kind of stoic and austere. 
 
 🔗 [View demo](https://cargocollective.com/friendlytheme)
 
-<img src="/assets/img/projects/friendly-cargo-theme/thumbnail.png" alt="product photo" class="image">
+<div><img src="/assets/img/projects/friendly-cargo-theme/thumbnail.png" alt="product photo" class="image"></div>
 
 

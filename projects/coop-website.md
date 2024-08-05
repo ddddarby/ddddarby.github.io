@@ -19,4 +19,4 @@ I briefly entertained the idea of spinning this in to a start up for other coops
 
 🔗 View a [demo](https://ddddarby.github.io/projects/coopwebsite/index.html).
 
-<img src="/assets/img/projects/coop-website/thumbnail.jpg" alt="product photo" class="image">
+<div><img src="/assets/img/projects/coop-website/thumbnail.jpg" alt="product photo" class="image"></div>

@@ -2,20 +2,8 @@
 layout: post
 title: 'Tamagotchi'
 ---
-
-I made a low poly tamagotchi in the 3D modeling software Blender as a personal project.
+More retro low pixel tech from me. Industrial design in the 90s was a golden age for single use tech devices, wasn't it. Goofy little form factors, bright colors, we really had it all back then. 
 <br>
-
 <div class="image-row">
 <img src="/assets/img/projects/tamagotchi/thumbnail.jpg" alt="product photo" class="responsive-image">
-</div>
-<div class="image-row">
-    <img src="/assets/img/projects/tamagotchi/egg.jpg" alt="product photo" class="responsive-image row-two">
-    <img src="/assets/img/projects/tamagotchi/strawberry.jpg" alt="product photo" class="responsive-image row-two">    
-</div>
-
-<div class="image-row">
-    <img src="/assets/img/projects/tamagotchi/pottedplant.jpg" alt="product photo" class="responsive-image row-three">
-    <img src="/assets/img/projects/tamagotchi/lemon.jpg" alt="product photo" class="responsive-image row-three">
-    <img src="/assets/img/projects/tamagotchi/orange.jpg" alt="product photo" class="responsive-image row-three">
 </div>

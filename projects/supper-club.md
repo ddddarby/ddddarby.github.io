@@ -6,5 +6,5 @@ In Spring 2022 I helped run a supper club out of my apartment and backyard in th
 
 We hosted a courageous 4 events before throwing in the towel. What I learned from this experience is that every restaurant is a miracle. All we have left now are memories and these promotional graphics I made.
 
-<img src="/assets/img/projects/supper-club/supper-club-posters-2.jpg" alt="product photo" class="image">
+<div><img src="/assets/img/projects/supper-club/supper-club-posters-2.jpg" alt="product photo" class="image"></div>
 

@@ -9,4 +9,4 @@ But wouldn’t it be way easier to just upload the photo you wanted and have tra
 
 I designed and built the first engineering print site and styled the super simple checkout. I also designed stickers for the packaging and the confirmation email.
 
-<img src="/assets/img/projects/engineering-prints/thumbnail.jpg" alt="product photo" class="image">
+<div><img src="/assets/img/projects/engineering-prints/thumbnail.jpg" alt="product photo" class="image"></div>
