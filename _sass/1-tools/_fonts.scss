@@ -5,7 +5,12 @@
 }
 
 @font-face {
-  font-family: "JetBrainsMono";
-  src: url("JetBrainsMono[wght].ttf") format("tff");
+  font-family: "JetBrainsMono-Regular";
+  src: url("../../assets/fonts/JetBrainsMono-Regular.woff2") format("woff2");
+  font-style: normal;
+}
+@font-face {
+  font-family: "JetBrainsMono-SemiBold";
+  src: url("../../assets/fonts/JetBrainsMono-SemiBold.woff2") format("woff2");
   font-style: normal;
 }
