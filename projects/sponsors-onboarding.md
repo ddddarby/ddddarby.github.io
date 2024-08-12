@@ -3,7 +3,7 @@ layout: post
 title: 'Sponsors onboarding'
 ---
 🚧 Under construction 🚧
-Like spring cleaning, an onboarding redesign is inevitable and has massive therapeutic benefits. I broke up my proposal into two phases showing where we'd get user experience and business wins with each step.
+Like spring cleaning, an onboarding redesign is inevitable, better when it's done every year, and feels great every time you do it. For this onboarding refresh, I broke up my proposal into two phases showing where we'd get user experience and business wins with each step.
 
 ### Overview of proposed changes
 - Removed references to "waitlist" and replaced it with the phrase "get sponsored"
@@ -21,6 +21,6 @@ It seemed like the most obvious thing in the world to replace "waitlist" with th
 
 
 ### Phase two: remove bottlenecks 
-In the next round of proposals I had an ambitious goal to remove as many steps as possible. We were asking users to hunt for requirements in a multi-page dashboard, and tasks like creating multiple tier options and pricing those tiers were unnecessarily confusing and were preventing users from publishing their pages. The vision was that after spending 10 minutes filling out one form, someone could start receiving funding through GitHub Sponsors instantly. 
+In the next round of proposals I had an ambitious goal to remove as many steps as possible. We were asking users to hunt for requirements in a multi-page dashboard, and tasks like creating multiple tier options and pricing those tiers were unnecessarily confusing and were preventing users from publishing their pages. I wanted to live in a world where after spending 10 minutes filling out a single form, someone could start receiving funding through GitHub Sponsors almost immediately after passing an automatic review. 
 
 <div><a href="../../assets/img/projects/sponsors-oboarding/Phase 2.jpg" target="_blank"><img src="../../assets/img/projects/sponsors-oboarding/Phase 2.jpg" alt="In this screenshot is a flowchart of the different states required if sponsors were to adopt a one page submission"></a></div>
