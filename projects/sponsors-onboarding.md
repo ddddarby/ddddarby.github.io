@@ -10,7 +10,7 @@ Like spring cleaning, an onboarding redesign is inevitable and has massive thera
 - Remove profile detials and the one tier requirement for publishing a sponsors page
 - Autopublish qualified pages
 
-<div><a href="../../assets/img/projects/sponsors-oboarding/sponsors onboarding before and after.jpg" target="_blank"><img src="../../assets/img/projects/sponsors-oboarding/sponsors onboarding before and after.jpg" alt="my proposal reduced the number of steps to launch a github sponsors page from four to one"></div>
+<div><a href="../../assets/img/projects/sponsors-oboarding/sponsors onboarding before and after.jpg" target="_blank"><img src="../../assets/img/projects/sponsors-oboarding/sponsors onboarding before and after.jpg" alt="my proposal reduced the number of steps to launch a github sponsors page from four to one"></a></div>
 
 ## Phase one: remove all references to "waitlist"
 Occasionally I'd run into developers who could absolutely use GitHub Sponsors to fund their open source projects but the sign up form gave them the impression that Sponsors was an exclusive program that was going to be difficult to apply to. They'd give up before even trying.
