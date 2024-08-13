@@ -23,4 +23,6 @@ It seemed like the most obvious thing in the world to replace "waitlist" with th
 ### Phase two: remove bottlenecks 
 In the next round of proposals I had an ambitious goal to remove as many steps as possible. We were asking users to hunt for requirements in a multi-page dashboard, and tasks like creating multiple tier options and pricing those tiers were unnecessarily confusing and were preventing users from publishing their pages. I wanted to live in a world where after spending 10 minutes filling out a single form, someone could start receiving funding through GitHub Sponsors almost immediately after passing an automatic review. 
 
+<div><a href="../../assets/img/projects/sponsors-onboarding/sponsors-onboarding-analysis 2.jpg" target="_blank"><img src="../../assets/img/projects/sponsors-onboarding/sponsors-onboarding-analysis 2.jpg" alt="In this screenshot I show all possible views someone could see during sign up and I have drawn a red line through views that we could remove or skip by changing the application requirements"></a></div>
+
 <div><a href="../../assets/img/projects/sponsors-oboarding/Phase 2.jpg" target="_blank"><img src="../../assets/img/projects/sponsors-oboarding/Phase 2.jpg" alt="In this screenshot is a flowchart of the different states required if sponsors were to adopt a one page submission"></a></div>
