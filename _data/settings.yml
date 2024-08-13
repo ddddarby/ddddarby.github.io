@@ -9,6 +9,7 @@ menu:
 # Projects Section
 
 projects:
+- {name: 'Sponsors Onboarding', url: 'sponsors-onboarding', categories: 'product'}
 - {name: 'Octocat Keycap', url: 'octocat-keycap', categories: 'industrial brand'}
 - {name: 'GitHub Sponsors Landing Page', url: 'github-sponsors-landing-page', categories: 'product brand'}
 - {name: 'Tamagotchi', url: 'tamagotchi', categories: 'illustration'}
