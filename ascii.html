@@ -3,20 +3,31 @@
 <head>
 </head>
 <style>
+    body {
+        font-family: 'Courier New', Courier, monospace;
+    }
     .ascii-board {
         border: 1px solid black;
-        border-radius: 10%;
         background: white; 
+        padding: 40px;
+        border-radius: 0px 24px;
+    }
+    .fake-toolbar {
+        border: 1px solid black;
+        border-radius: 24px 0px;
     }
 </style>
 <header>
 You found my secret stash. Sometimes the 3,000+ default emoji on my phone are not enough, and I need a more analog, vintage look. 
 </header>
 <body>
-<div class="ascii-board">
-<code>
-    -`♡´-
-</code>
-</div>
+    <div class="fake-browser">
+        <div class="fake-toolbar"></div><!--fake browser-->
+        <div class="ascii-board">
+            <code>
+                -`♡´-
+            </code>
+        </div>
+    </div><!--fake browser-->
 </body>
 </html>
