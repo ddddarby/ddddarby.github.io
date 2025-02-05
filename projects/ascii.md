@@ -1,0 +1,9 @@
+---
+layout: post
+title: 'ASCII fun'
+---
+You found my secret stash. Sometimes the 3,000+ default emoji on my phone are not enough, and I need a more analog, vintage look. 
+
+<code>
+-`♡´-
+</code>
